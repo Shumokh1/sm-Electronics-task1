@@ -13,3 +13,4 @@ The Word document includes the following sections:
 
 ### 2. Connecting and Programming the Circuit
 - An electronic circuit with 6 servo motors using Tinkercad software.
+- https://www.tinkercad.com/things/6AMVncpI3rR-6-servomotor-simulation?sharecode=_ttexi6nGOnO3piKFPMvXSiBwzZUOxMnj4WMQLXnqjo
